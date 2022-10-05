@@ -1,5 +1,5 @@
 # Hi there, I'm Ryan!
-<img align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rknapp3000&show_icons=true&theme=gradient"/>
+<img align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rknapp3000&show_icons=true&theme=dracula"/>
 
 <img  align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rknapp3000&layout=compact&theme=dracula"/>
 
