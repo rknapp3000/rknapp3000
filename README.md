@@ -1,7 +1,5 @@
-# Hi there, I'm Ryan!
-<img align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api?username=rknapp3000&show_icons=true&theme=vue-dark"/>
 
-<img  align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rknapp3000&layout=compact&theme=vue-dark"/>
+| <a href="https://github.com/rknapp3000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ryan's github stats" /></a> | <a href="https://github.com/rknapp3000/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rknapp3000&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
